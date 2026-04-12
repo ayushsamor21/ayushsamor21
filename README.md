@@ -1,5 +1,5 @@
 ## Hi there 👋
-https://github.com/ayushsamor21/ayushsamor21/blob/ad936b3a41549660e744db1c9c2f178ef2a4030a/%20%20copy.gif
+![image alt](https://github.com/ayushsamor21/ayushsamor21/blob/ad936b3a41549660e744db1c9c2f178ef2a4030a/%20%20copy.gif)
 <!--
 **ayushsamor21/ayushsamor21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
