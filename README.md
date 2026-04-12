@@ -1,5 +1,5 @@
 ## Hi there 👋
-![image alt](https://github.com/ayushsamor21/ayushsamor21/blob/4402ce64f3b1f3fc4cc6e39d42f275525de647e8/banner.gif)
+![image alt](https://github.com/ayushsamor21/ayushsamor21/blob/68d52e2fe17fcad4fcabe96f4449230fbeab6664/%20%20copy.gif)
 
 
 
