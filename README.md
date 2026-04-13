@@ -17,6 +17,6 @@
 
 ###  About Me
 
-I'm **Ayush Samor**, somewhere on the path to becoming an AI/ML engineer, with a growing curiosity for cloud technologies. I’m currently building and training models, exploring LLMs, and trying to understand what truly lies beneath the surface, breaking things down and building them from scratch, learning step by step along the way.
+I'm **Ayush Samor**, somewhere on the path to becoming an AI/ML engineer, with a growing curiosity for cloud technologies. I’m currently building and training models, exploring LLMs, and trying to understand what truly lies beneath the surface, breaking things down and building them from scratch.
 
 ---
