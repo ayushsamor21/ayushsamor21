@@ -20,13 +20,3 @@
 I'm **Ayush Samor**, somewhere on the path to becoming an AI/ML engineer, with a growing curiosity for cloud technologies. I’m currently building and training models, exploring LLMs, and trying to understand what truly lies beneath the surface, breaking things down and building them from scratch.
 
 ---
-
-###  Current Focus
-
-- Solving problems and improving consistency on **LeetCode**
-- Building and experimenting with **Machine Learning projects**
-- Exploring **Deep Learning & LLMs**
-- Strengthening fundamentals in **Data Structures & Algorithms**
-- Learning how to deploy models using **Cloud technologies**
-
----
