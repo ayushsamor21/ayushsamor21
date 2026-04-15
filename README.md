@@ -18,17 +18,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   
-  &nbsp;&nbsp;
-  
   <a href="mailto:ayushsamor66@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   
-  &nbsp;&nbsp;
-  
   <a href="https://leetcode.com/ayushsamor66">
-    <img src="https://img.shields.io/badge/LeetCode-00C853?style=flat-square&logo=leetcode&logoColor=white" />
-  </a>
-</p>
-
-</div>
