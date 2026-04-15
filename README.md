@@ -10,7 +10,7 @@
 <p align="center">
 <b> ✦ Somewhere between AI and Cloud figuring things out ✦ </b>
 </p>
-
+---
 <p align="center">
   <a href="https://www.linkedin.com/in/ayush-samor-6a579b403/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
