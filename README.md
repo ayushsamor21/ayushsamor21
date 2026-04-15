@@ -14,7 +14,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayush-samor-6a579b403/">
+  <a href="https://linkedin.com/in/ayush-samor-12345">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   
@@ -23,3 +23,11 @@
   </a>
   
   <a href="https://leetcode.com/ayushsamor66">
+    <img src="https://img.shields.io/badge/LeetCode-00C853?style=flat-square&logo=leetcode&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/ayushsamor21">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
+
