@@ -14,7 +14,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ayush-samor-12345">
+  <a href="https://linkedin.com/in/ayush-samor-6a579b403">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   
