@@ -1,6 +1,6 @@
 <div align="center">
 <img 
-  src="https://raw.githubusercontent.com/ayushsamor21/ayushsamor21/main/%20%20copy.gif"
+  src="https://raw.githubusercontent.com/ayushsamor21/ayushsamor21/main/%20%20banner1.gif"
   width="100%"
 />
 <br/>
