@@ -15,21 +15,16 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ayush-samor-6a579b403">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" height="35"/>
   </a>
   
   <a href="mailto:ayushsamor66@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="35"/>
   </a>
   
   <a href="https://leetcode.com/ayushsamor66">
-    <img src="https://img.shields.io/badge/LeetCode-00C853?style=flat-square&logo=leetcode&logoColor=white" />
-  </a>
-  
-  <a href="https://github.com/ayushsamor21">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-00C853?style=flat-square&logo=leetcode&logoColor=white" height="35"/>
   </a>
 </p>
 
 <hr style="width:60%; border:1px solid gray;"/>
-
