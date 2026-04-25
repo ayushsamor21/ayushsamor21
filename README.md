@@ -28,13 +28,3 @@
 </p>
 
 <hr style="width:60%; border:1px solid gray;"/>
-
-<h2>Projects</h2>
-
-<h3>MedEnsembleNet</h3>
-
-<p>
-Skin cancer detection using an ensemble of <b>EfficientNet</b> and <b>ConvNeXt</b> models for improved accuracy and robustness in medical image classification.
-</p>
-
-<hr style="width:60%; border:1px solid gray;"/>
