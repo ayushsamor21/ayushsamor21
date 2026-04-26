@@ -5,7 +5,7 @@
 />
 <br/>
 
-<h1 align="center" style="font-family: monospace;">Hi, I'm Ayush </h1>
+<h1 align="center" style="font-family: monospace;">Hi,I'm Ayush </h1>
 
 <p align="center">
 <b> ✦ Somewhere between AI and Cloud figuring things out ✦ </b>
