@@ -6,14 +6,14 @@
 <br/>
 
 <h1 align="center" style="font-family: monospace;">Hi, I'm Ayush </h1>
-
+<!-- 
 <p align="center">
 <b> ✦ Somewhere between AI and Cloud figuring things out ✦ </b>
 </p>
 
 <br/>
+<!--
 
-<!-- 
 <p align="center">
   <a href="https://linkedin.com/in/ayush-samor-6a579b403">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" height="35"/>
